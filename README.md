@@ -1,4 +1,4 @@
-# aws-lambda-node-tempalte
+# aws-lambda-node-template
 
 This repo is a template of a Node.js function for AWS Lambda that can be easily developed and tested on a local workstation and then uploaded as a Lambda function using scripts. Additional scripts provide for updating the Lambda function based on local code changes, and scheduling the function to run periodically.
 
